@@ -116,3 +116,17 @@ Making predictions on the test data:
 Evaluating the model performance:
 
     a. r2_score() function is used to evaluate the model performance
+
+# demo link:https://drive.google.com/file/d/19I_LoWID4NgK5nDSY0NBVGOYGVDO0M-1/view?usp=sharing
+
+# 2.Instagram Influencer
+
+    Load the instagram influencers dataset and answer the given five questions, 
+    these questions will help us understand various data processing techniques
+        1 Dealing with various datatypes and type conversion of features
+        2 Find the correlation between the columns
+        3 Finding the data distributions of columns
+        4 Understanding aggregate functions of dataframes
+        5 Understanding the relation between columns
+
+# demo link:https://drive.google.com/file/d/1uT6TZFD-5ekEhu5Ix_qkAU5OGZkJYELu/view?usp=sharing
